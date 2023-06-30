@@ -4,7 +4,7 @@
 **How to run/test this project**
 - Ensure you have git installed properly on your machine
 * Ensure you have node js installed in your machine
-+ Open your terminal and run "git@github.com:donvico/Winners-Chukwuebuka-Week-One-Lesson-One.git"
++ Open your terminal and run "git@github.com:donvico/Winners-Chukwuebuka-Week-two-Lesson-three.git"
 - To test your lint check for HTML run "npm run lint:html"
 - To test your lint check for CSS run "npm run lint:css"
 - To test your lint check for both HTML and CSS files (both HTML and CSS) run "npm run lint:all"
